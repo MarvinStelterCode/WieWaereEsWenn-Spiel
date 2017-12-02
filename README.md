@@ -1,0 +1,2 @@
+# WieWaereEsWenn-Spiel
+be viele komische und verrückte sachen in meinen Kopf, und mit diesen sachen habe ich ein Spiel programmiert bzw programmiere es. Dieses Spiel trägt den Titel: Wie wäre es wenn? Man hat zwei Buttons zur auswahl und kann damit verschiedene Fragen beantworten z.B.: Wie wäre es wenn du dich unsichtbar machen kannst, aber nur eine Stunde am Tag sichtbar sein kannst? Antwort möglichkeit: Gut oder Schlecht. Am ende einer Runde bekommst du Coins mit den du neue Kategorien freischalten kannst. 
